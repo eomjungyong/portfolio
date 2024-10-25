@@ -80,7 +80,7 @@ h2:before {
 body {
     font-family: 'Segoe UI', sans-serif;
     font-size: 14px;
-    line-height: 24px;
+    line-height: 1.5;
 }
 
 .size-50 {
